@@ -1,5 +1,7 @@
 # Count-Howl-Discord-Rules
+
 The offical rules for Count Howl Discord Server
+
 **Discord Rules**This server follows the Discord's Terms of Service (also known as ToS from here on out), any violation of these terms of service by any member will be taken upon by the staff team to review and announce punishments. Please read the ToS. https://discordapp.com/terms *1-1*
 
 **We're all humans**
